@@ -4,5 +4,8 @@ This is a collection of assets and tools I created (or have permission to share/
 ## 3D2Sprite
 Blender file with 8 cameras and lights set up to turn 3D models into the 8 directional sprites needed for Doom assets. Use [Batch Render Cameras](https://extensions.blender.org/add-ons/batch-camera-render/?utm_source=blender-5.1.1) to render and save all 8 sprites at once, or render each camera individually.
 
+## GifSlip
+Python script to split a gif into pngs of each frame. Good if you need to quickly decompile a gif. Doesn't work on jifs.
+
 ## Textures
 Various textures I made or modified and have the right to redistribute.
